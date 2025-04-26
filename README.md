@@ -1,7 +1,3 @@
-Entendido! Como você mencionou que o projeto PROZ é uma atividade do curso da Proz, presumo que você está se referindo ao curso da **Proz Talento Cloud**, que frequentemente inclui exercícios práticos de SQL para desenvolver habilidades em bancos de dados. Abaixo, melhorei ainda mais o Markdown com base no contexto da atividade, mantendo a estrutura clara, concisa e focada nos objetivos educacionais da Proz. Também corrigi pequenos erros e organizei o conteúdo para ser mais didático e alinhado com o propósito de um projeto acadêmico.
-
----
-
 # PROZ - Sistema de Gerenciamento de Alunos e Professores
 
 ## Introdução
